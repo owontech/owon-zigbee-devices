@@ -149,6 +149,8 @@ Documentation coming soon.
 
 Learn more about Zigbee technology:
 
+- [ZigBee Fan Coil Thermostat](https://www.owon-smart.com/zigbee-fancoil-thermostat-with-remote-control-via-app-pct504-z-product/)
+- [ZigBee Thermostatic Radiator Valve](https://www.owon-smart.com/zigbee-smart-radiator-valve-lcd-screen-display-trv-527-product/)
 - [Zigbee Ethernet Gateway: What It Is and When You Need One](https://www.owon-smart.com/news/zigbee-ethernet-gateway/)
 - [From DIY to Enterprise: A Complete Guide to Zigbee + MQTT for Commercial IoT Deployment](https://www.owon-smart.com/news/zigbee-mqtt-gateway-commercial-iot-solution-guide/)
 - [Zigbee Motion Sensor for Home Assistant](https://www.owon-smart.com/news/zigbee-motion-sensor-for-home-assistant-integration-guide-for-smart-automation-projects/)
