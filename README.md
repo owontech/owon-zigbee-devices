@@ -149,10 +149,14 @@ Documentation coming soon.
 
 Learn more about Zigbee technology:
 
-- Zigbee Gateway Guide
-- Zigbee Motion Sensor Guide
-- Zigbee Temperature Sensor Guide
-- Zigbee Door Sensor Guide
+- [Zigbee Ethernet Gateway: What It Is and When You Need One](https://www.owon-smart.com/news/zigbee-ethernet-gateway/)
+- [From DIY to Enterprise: A Complete Guide to Zigbee + MQTT for Commercial IoT Deployment](https://www.owon-smart.com/news/zigbee-mqtt-gateway-commercial-iot-solution-guide/)
+- [Zigbee Motion Sensor for Home Assistant](https://www.owon-smart.com/news/zigbee-motion-sensor-for-home-assistant-integration-guide-for-smart-automation-projects/)
+- [ZigBee Temperature Sensor for Freezers](https://www.owon-smart.com/news/zigbee-temperature-sensor-for-freezers-unlocking-reliable-cold-chain-monitoring-for-b2b-markets/)
+- [Zigbee Door Window Sensor with Tamper Alert for Smart Buildings](https://www.owon-smart.com/zigbee-door-windows-sensor-tamper-alerts-product/)
+- [ZigBee Air Conditioner Controller](https://www.owon-smart.com/news/zigbee-air-conditioner-controller-guide/)
+- [Zigbee Siren Alarm](https://www.owon-smart.com/news/zigbee-siren-alarm-for-smart-security-systems/)
+- [Zigbee Power Meter](https://www.owon-smart.com/news/zigbee-power-meter-smart-home-energy-monitor/)
 
 ---
 
